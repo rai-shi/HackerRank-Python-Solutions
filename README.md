@@ -1,1 +1,1 @@
-# HackerRank-Python-Solutions
+# Leetcode-Python-Solutions
