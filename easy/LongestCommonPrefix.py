@@ -25,7 +25,7 @@ def longestCommonPrefix_ver1(strs: list[str]) -> str:
         return ""
 
 
-
+# optimum one
 def longestCommonPrefix_ver2(strs: list[str]) -> str:
     if not strs:
         return ""
